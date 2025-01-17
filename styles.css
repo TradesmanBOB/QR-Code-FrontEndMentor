@@ -37,7 +37,6 @@ body {
     flex-direction: column;
     align-items: center;
     width: 320px;
-    height: 499px;
     background-color: var(--White);
     padding: 16px 16px 40px 16px;
     border-radius: 20px;
@@ -53,9 +52,13 @@ body {
     padding: 0 16px;
 }
 
-.Textbox p {
-    
-  }
+h2 {
+    margin-top: -0px;
+}
+
+p {
+    margin-top: -30px;
+}
 
 .image-qr-code {
     width: 100%;
